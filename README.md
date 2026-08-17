@@ -66,11 +66,9 @@ The API runs at `http://localhost:4000` by default.
 |---|---|---|---|
 | POST | `/api/tasks` | Create task | 201 |
 | GET | `/api/tasks` | Read all tasks | 200 |
-| GET | `/api/tasks?completed=true` | Filter completed tasks | 200 |
 | GET | `/api/tasks/:id` | Read one task | 200 / 404 |
 | PATCH | `/api/tasks/:id` | Update task | 200 / 404 |
 | DELETE | `/api/tasks/:id` | Delete task | 204 / 404 |
-| GET | `/health` | API/database health | 200 |
 
 ## Task schema
 
