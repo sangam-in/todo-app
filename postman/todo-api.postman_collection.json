@@ -1,0 +1,51 @@
+{
+  "info": {
+    "_postman_id": "cf0f7665-9265-403e-ac83-a9ea044ed988",
+    "name": "To Do App",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "57356092",
+    "_collection_link": "https://go.postman.co/collection/57356092-cf0f7665-9265-403e-ac83-a9ea044ed988?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "POST",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "GetAll",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "GetById",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Update",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    },
+    {
+      "name": "Delete",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}

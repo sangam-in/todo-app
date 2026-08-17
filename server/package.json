@@ -1,0 +1,28 @@
+{
+  "name": "todo-rest-api",
+  "version": "1.0.0",
+  "description": "Production-ready REST API for a collaborative To-Do List application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "keywords": [
+    "todo",
+    "rest-api",
+    "express",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.9.2"
+  }
+}
